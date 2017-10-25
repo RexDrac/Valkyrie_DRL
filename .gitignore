@@ -59,4 +59,4 @@ target/
 
 #Folder to ignore
 record/
-valkyrie_gym_env/
+#valkyrie_gym_env/
